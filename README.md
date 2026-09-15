@@ -118,7 +118,7 @@ This reduces the approximately 5 V ECHO signal to a level suitable for the ESP32
 ![Click here to check out the project image](images/IMG_20260915_182114_381.jpg)
 
 ## Project Demo Video
-[CLick here to check out the project Demo video]()
+[CLick here to check out the project Demo video](https://youtu.be/bvsQro1TBek)
 
 ## 📏 How Water-Level Measurement Works
 
