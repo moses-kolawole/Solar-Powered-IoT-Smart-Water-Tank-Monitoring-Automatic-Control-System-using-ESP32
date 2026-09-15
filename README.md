@@ -1,0 +1,2 @@
+# Solar-Powered-IoT-Smart-Water-Tank-Monitoring-Automatic-Control-System-using-ESP32
+An ESP32-based smart water tank monitoring system designed to measure water level, process the sensor data, and provide real-time monitoring through a local web dashboard.  The project is being developed as a solar-powered IoT system, with future expansion toward automatic pump control and remote/cloud-based monitoring. 
